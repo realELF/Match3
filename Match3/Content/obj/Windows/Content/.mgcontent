@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/big font.spritefont</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/font.spritefont</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/Images/bomb.png</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/Images/button.png</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/Images/cell.png</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/Images/destroyer.png</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/Images/line.png</File>
+    <File>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/Images/triangle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>bigFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File>bomb.png</File>
+    <File>button.png</File>
+    <File>cell.png</File>
+    <File>destroyer.png</File>
+    <File>line.png</File>
+    <File>triangle.png</File>
+  </DestFiles>
+</SourceFileCollection>

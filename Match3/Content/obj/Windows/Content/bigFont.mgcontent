@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/big font.spritefont</SourceFile>
+  <SourceTime>2019-08-20T18:17:47.5043364+10:00</SourceTime>
+  <DestFile>C:/Users/рооро/documents/visual studio 2013/Projects/Match3/Match3/Content/bin/Windows/Content/bigFont.xnb</DestFile>
+  <DestTime>2019-08-20T18:20:24.4491694+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-09T02:35:54+10:00</ImporterTime>
+  <Processor>LocalizedFontProcessor</Processor>
+  <ProcessorTime>2018-12-09T02:35:54+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
